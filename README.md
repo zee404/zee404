@@ -2,7 +2,7 @@
 🚀 Currently developing an ERP system using Laravel (PHP Framework)<br>
 🧠 Exploring the vast possibilities of machine learning<br>
 💻  Curious about web development? Ask away! <br>
-🌟 Fun fact: Founded a startup (Multi Delivery App) during university, serving over 500 customers<br>
+🌟 Fun fact: I Founded a startup (Multi Delivery App) during university, serving over 500 customers<br>
 🎥 Also, I have a YouTube channel showcasing the daily life of software engineers<br>
 <h2>Languages & Tools ⚙️:</h2>
 <div style="display: inline_block"><br>
