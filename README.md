@@ -1,4 +1,4 @@
-## Hi! I'm Zeeshan Bashir, a Full Stack Developer.
+## Hi! I'm Zeeshan Bashir, A Full Stack Developer.
 🚀 Currently developing an ERP system using Laravel (PHP Framework)<br>
 🧠 Exploring the vast possibilities of machine learning<br>
 💻  Curious about web development? Ask away! <br>
