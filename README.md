@@ -24,7 +24,7 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 
 
 
