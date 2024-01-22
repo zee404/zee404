@@ -4,9 +4,14 @@
 💻  Curious about web development? Ask away! <br>
 🌟 Fun fact: I Founded a startup (Multi Delivery App) during university, serving over 500 customers<br>
 🎥 Also, I have a YouTube channel showcasing the daily life of software engineers<br>
+
+
+
+<!-- Add you Languages and tools here-->
 <h2>Languages & Tools ⚙️:</h2>
 <div style="display: inline_block"><br>
-  
+
+
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
