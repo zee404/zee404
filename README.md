@@ -1,4 +1,4 @@
-<!-- Your basic Introduction-->>
+<!-- Your basic Introduction-->
 ## Hi! I'm Zeeshan Bashir, A Full Stack Developer.
 🚀 Currently developing an ERP system using Laravel (PHP Framework)<br>
 🧠 Exploring the vast possibilities of machine learning<br>
