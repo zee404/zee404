@@ -1,9 +1,9 @@
 
-## Hi! I'm Zeeshan Bashir, A Full Stack Developer.
-🚀 Currently developing an ERP system using Laravel (PHP Framework)<br>
-🧠 Exploring the vast possibilities of machine learning<br>
-💻  Curious about web development? Ask away! <br>
-🌟 Fun fact: I Founded a startup (Multi Delivery App) during university, serving over 500 customers<br>
+## Hi! I'm Zeeshan Bashir--Software Engineer.
+🛠️ Experience working with Python, PHP (Laravel, Symfony), Vue.js, React, Docker, GitLab CI/CD, microservices, and microfrontends<br>
+🔧 Built an internal RAG-based AI assistant to improve internal knowledge access<br>
+💻  Curious about Software development? Ask away! <br>
+🌟 Fun fact: I founded a startup (Multi-purpose Delivery App) during university, serving over 500 customers<br>
 🎥 Also, I have a YouTube channel showcasing the daily life of software engineers<br>
 
 
