@@ -78,10 +78,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-*Open to working student & software development roles in Germany*
-
-</div>
